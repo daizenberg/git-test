@@ -1,0 +1,4 @@
+{
+  "esnext": true, // use ES6 features
+  "asi": true // suppress "missing semicolon" warning
+}

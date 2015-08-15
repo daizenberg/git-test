@@ -1,5 +1,3 @@
-/* jshint esnext:true */
-
 export function getFullName(person) {
   if(person==null)
       return undefined

@@ -1,6 +1,3 @@
-// jshint esnext:true
-// jshint asi:true
-
 import assert from 'assert'
 import { getFullName } from '../src/string-processor'
 
