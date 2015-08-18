@@ -1,6 +1,4 @@
 export function getFullName(person) {
-  if(person==null)
-      return undefined
   if("object" !== typeof person)
     return undefined
 
